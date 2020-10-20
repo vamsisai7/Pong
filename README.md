@@ -1,2 +1,6 @@
-# Pong
-Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. Points are earned when one fails to return the ball to the other.
+# Ping Pong Game JavaScript Using JavaScript
+The Snake game, created using JavaScript, and The HTML5 canvas.
+
+Download the starter template, and follow the tutorial on youtube step by step.
+
+Tutorial link : https://youtu.be/nl0KXCa5pJk
